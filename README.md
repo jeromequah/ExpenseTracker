@@ -1,6 +1,6 @@
 # ExpenseTracker &#128184; &#12363; &#12397;
 
-An interactive expense tracker made using ReactJS.
+A simple interactive expense tracker made using ReactJS.
 
 # Deployment &#128640;
 
